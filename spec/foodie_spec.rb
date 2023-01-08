@@ -1,8 +1,8 @@
 # frozen_string_literal: true
-require 'foodie/food'
+
+require "foodie/food"
 
 RSpec.describe Foodie do
-
   it "broccoli is gross" do
     expect(Foodie::Food.portray("Broccoli")).to eql("Gross!")
   end
