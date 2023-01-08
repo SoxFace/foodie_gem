@@ -3,21 +3,21 @@
 require_relative "lib/foodie/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "foodie"
+  spec.name = "foodie_gem"
   spec.version = Foodie::VERSION
   spec.authors = ["soxface"]
   spec.email = ["sonyacorcoran@gmail.com"]
 
   spec.summary = "Bundler foodie gem tutorial"
   spec.description = "Bundler foodie gem tutorial"
-  spec.homepage = "https://example.com"
+  spec.homepage = "https://github.com/SoxFace/foodie_gem"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "https://example.com"
+  spec.metadata["allowed_push_host"] = "https://github.com/SoxFace/foodie_gem"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://example.com"
-  spec.metadata["changelog_uri"] = "https://example.com"
+  spec.metadata["source_code_uri"] = "https://github.com/SoxFace/foodie_gem"
+  spec.metadata["changelog_uri"] = "https://github.com/SoxFace/foodie_gem"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
