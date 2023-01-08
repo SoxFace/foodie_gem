@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Bundler foodie gem tutorial"
   spec.description = "Bundler foodie gem tutorial"
-  spec.homepage = "https://github.com/SoxFace/foodie_gem"
+  spec.homepage = "https://rubygems.org/gems/foodie_gem"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "https://github.com/SoxFace/foodie_gem"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org/gems/foodie_gem"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/SoxFace/foodie_gem"
-  spec.metadata["changelog_uri"] = "https://github.com/SoxFace/foodie_gem"
+  spec.metadata["changelog_uri"] = "https://rubygems.org/gems/foodie_gem"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
