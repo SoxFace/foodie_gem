@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "https://rubygems.org/gems/foodie_gem"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/SoxFace/foodie_gem"
+  spec.metadata["source_code_uri"] = "https://rubygems.org/gems/foodie_gem"
   spec.metadata["changelog_uri"] = "https://rubygems.org/gems/foodie_gem"
 
   # Specify which files should be added to the gem when it is released.
