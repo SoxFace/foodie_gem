@@ -34,8 +34,8 @@ Gem::Specification.new do |spec|
   # spec.add_dependency "example-gem", "~> 1.0"
   spec.add_development_dependency "rspec", "~> 3.2"
   spec.add_dependency "activesupport"
-  spec.add_development_dependency "cucumber"
   spec.add_development_dependency "aruba"
+  spec.add_development_dependency "cucumber"
   spec.add_dependency "thor"
 
   # For more information and examples about making a new gem, check out our
